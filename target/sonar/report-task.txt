@@ -1,0 +1,6 @@
+projectKey=Hello.World:helloWorld
+serverUrl=http://127.0.0.1:9000
+serverVersion=6.4.0.25310
+dashboardUrl=http://127.0.0.1:9000/dashboard/index/Hello.World:helloWorld
+ceTaskId=AVyMgZATTkM3W3I48JRr
+ceTaskUrl=http://127.0.0.1:9000/api/ce/task?id=AVyMgZATTkM3W3I48JRr
